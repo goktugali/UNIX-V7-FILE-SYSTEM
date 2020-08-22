@@ -1,0 +1,7 @@
+supported operations ;
+-mkdir
+-write
+-read
+-list
+-dumpe2fs
+-fsck
